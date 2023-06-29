@@ -1,4 +1,3 @@
-/* iagocolodetti */
 
 // Função 'sortTable' retirada e adaptada de: https://www.w3schools.com/howto/howto_js_sort_table.asp
 function sortTable(n) {
